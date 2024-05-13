@@ -93,7 +93,7 @@ div { -webkit-user-select: none !important; }
   position: absolute;
   bottom: 40px;
   left: 50%;
-  color: #000000;
+  color: none;
   font-size: 30px;
   font-family: sans-serif;
   transform: translateX(-50%);
