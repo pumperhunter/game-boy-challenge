@@ -66,6 +66,7 @@ div { -webkit-user-select: none !important; }
 
 .credits
 {
+  font-weight: bold
   text-decoration: none;
   position: absolute;
   bottom: 90px;
