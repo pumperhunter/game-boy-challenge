@@ -67,10 +67,10 @@ div { -webkit-user-select: none !important; }
 .credits
 {
   position: absolute;
-  bottom: 15px;
-  right: 15px;
+  bottom: 60px;
+  right: 40px;
   color: #000000;
-  font-size: 16px;
+  font-size: 50px;
   font-family: sans-serif;
   opacity: 0.5;
 }
